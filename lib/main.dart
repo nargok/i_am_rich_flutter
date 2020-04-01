@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://amd.c.yimg.jp/amd/20191022-00010003-hintpot-000-1-view.jpg'),
+            image: AssetImage('images/diamond.png')
           ),
         ),
       ),
